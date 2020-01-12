@@ -58,7 +58,7 @@ You'll need to manually remove the hardcoded recipe data in your component or co
 
 and replace it all with props. Check out the file `/recipes/src/data/recipes.json` if you're having trouble finding the correct paths to the info you want to render. 
 
-Note: some JSON data may have different values from the original HTML.
+_Note: some JSON data may have different values from the original HTML._
 
 If it helps, you can think about, treat and test this imported data the same as if it were data coming from an API call.
 
