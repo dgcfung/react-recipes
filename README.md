@@ -5,14 +5,14 @@
 To get started with this homework:
 
 - Fork and clone down this repo. Remember this?
-- cd into `recipes`
+- cd into `recipes`.
 - Run `npm install` or `npm i`. Your React application will not run if you skip this step.
 
 The `/recipes` directory is a React application that has been created for you already. In it you will find:
 
-- A mostly empty React application
+- A mostly empty React application.
 - An `index.html` (in `/recipes/public/index.html`) with HTML for a recipe site.
-- A array of recipes in `/recipes/src/data/recipes.json`
+- A array of recipes in `/recipes/src/data/recipes.json`.
 
 Your task is to:
 
