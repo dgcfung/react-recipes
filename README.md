@@ -12,7 +12,7 @@ The `/recipes` directory is a React application that has been created for you al
 
 - A mostly empty React application.
 - An `index.html` (in `/recipes/public/index.html`) with HTML for a recipe site.
-- A array of recipes in `/recipes/src/data/recipes.json`.
+- An array of recipes in `/recipes/src/data/recipes.json`.
 
 Your task is to:
 
