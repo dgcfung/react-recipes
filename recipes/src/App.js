@@ -21,6 +21,7 @@ const App = () => {
   )}
 export default App;
 
+// navigation bar + map of 3 recipes.
 
 
 
